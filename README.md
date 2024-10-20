@@ -1,4 +1,4 @@
-# Gen-AI-Medical_Chatbot-Llama2
+# Gen-AI-Medical_Chatbot-Using Llama2 Model
 
 ![alt text](image.png)
 
