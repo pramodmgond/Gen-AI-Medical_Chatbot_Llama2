@@ -1,0 +1,17 @@
+artifact
+venv
+env
+.gitignore
+logs
+template.py
+demo.py
+load_model.py
+README.md
+LICENSE
+Medical_Chatbot.egg.info
+notebook
+research
+Model
+test.py
+data
+dump.py
