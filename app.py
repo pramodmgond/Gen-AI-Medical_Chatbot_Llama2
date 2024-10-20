@@ -77,9 +77,6 @@ def load_first_model_file_from_folder(folder_path: str):
         logging.error(f"Error accessing folder {folder_path}: {str(e)}")
         raise e
 
-<<<<<<< HEAD
-=======
-
 # Specify the folder path
 save_model_folder = "C:\\Users\\pramod\\Desktop\\INURON\\Internship3\\Gen-AI-Medical_Chatbot\\savemodel"  # Change this to the actual folder path
 
@@ -90,7 +87,8 @@ if not os.path.exists(save_model_folder):
 else:
     print(f"Folder already exists: {save_model_folder}")
 
->>>>>>> new-branch
+
+
 # Folder where the saved models are stored
 save_model_folder = "C:\\Users\\pramod\Desktop\\INURON\\Internship3\\Gen-AI-Medical_Chatbot\\savemodel"  # Change this to the actual folder path
 
